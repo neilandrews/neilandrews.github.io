@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Veggie
+title: [TEMPLATE]]
 ---
 
 Veggies sunt bona vobis, proinde vos postulo esse magis cucumber bell pepper collard greens wakame garbanzo napa cabbage chickpea artichoke fava bean swiss chard dulse arugula groundnut grape.
