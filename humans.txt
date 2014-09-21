@@ -1,21 +1,21 @@
 /* TEAM */
                             
-Your title: Your name.                        
+Your title: Neil Andrews.                        
 Site: email, link to a contact form, etc.                         
-Twitter: your Twitter username.                        
-Location: City, Country.
+Twitter: Neil_Andrews                        
+Location: Belfast, UK.
 
 
 /* THANKS */
 
 HTML5 Muffin
 This is a Frappuccino Blog
-Name: name or url
+Name: neilandrews.com
 
                             
 /* SITE */
                           
-Last update: YYYY/MM/DD                    
+Last update: 2014/09/21                   
 Standards: HTML5, CSS3,..                   
 Components: Modernizr, jQuery, etc.                            
 Software: Software used for the development
