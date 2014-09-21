@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Bluth
+title: [TEMPLATE]
 ---
 
 {% include bluth.html %}
